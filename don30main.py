@@ -5,8 +5,7 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
 from PyQt5 import uic
 from realtimekiwoom import * #kiwoom.py에 해당
-
-
+# git 테스트
 class MyWindow(QMainWindow):
     def __init__(self):
         super().__init__()
